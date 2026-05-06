@@ -25,7 +25,7 @@ Desarrollar funciones en Python aplicadas al análisis de información ambiental
 
 ---
 
-### 🌞 Reto 2 – Analista de luz
+### 🌞 Reto 2 – Analista de luz (Kelly Fonseca)
 **Objetivo:** Evaluar la relación entre la cantidad de luz y la productividad (biomasa).
 
 **Tareas:**
@@ -51,7 +51,7 @@ Desarrollar funciones en Python aplicadas al análisis de información ambiental
 
 ---
 
-### 🌱 Reto 4 – Integrador del grupo
+### 🌱 Reto 4 – Integrador del grupo (Santiago Benavides)
 **Objetivo:** Combinar los resultados de los tres compañeros y crear un resumen final.
 
 **Tareas:**
